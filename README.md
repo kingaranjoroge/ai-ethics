@@ -1,6 +1,6 @@
 # AI Ethics Assignment
 
-This repository contains a structured, multi-part AI Ethics assignment, covering theoretical foundations, real-world case analysis, practical dataset auditing, personal reflection, and policy drafting. The materials are organized for clarity and ease of use, supporting both academic study and practical application.
+In this repository is a structured, multi-part AI Ethics assignment, covering various fields including theoretical foundations, real-world case analysis, practical dataset auditing, personal reflection, and policy drafting. The materials are organized for clarity and ease of use, supporting both academic study and practical application.
 
 ## Repository Structure
 
